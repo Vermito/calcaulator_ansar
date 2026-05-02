@@ -16,3 +16,6 @@ print(divide(1, 2))
 def multiply(a, b):
     return a * b
 print(multiply(1, 2))
+
+def name():
+    print("Hello World")
